@@ -1,0 +1,188 @@
+{
+  "balance": 13.804541095890414,
+  "total_earned": 13.804541095890414,
+  "total_withdrawn": 0.0,
+  "history": [
+    {
+      "type": "earning",
+      "amount": 0.25,
+      "source": "timebucks.com",
+      "timestamp": 1788801927.133697
+    },
+    {
+      "type": "earning",
+      "amount": 0.5,
+      "source": "freecash.com",
+      "timestamp": 1788801932.1365528
+    },
+    {
+      "type": "earning",
+      "amount": 0.25,
+      "source": "ysense.com",
+      "timestamp": 1788801937.137671
+    },
+    {
+      "type": "earning",
+      "amount": 1.5,
+      "source": "arbitragem",
+      "timestamp": 1788801937.1386082
+    },
+    {
+      "type": "earning",
+      "amount": 1.4,
+      "source": "arbitragem",
+      "timestamp": 1788801937.138967
+    },
+    {
+      "type": "earning",
+      "amount": 0.0010136986301369864,
+      "source": "staking",
+      "timestamp": 1788801937.1392026
+    },
+    {
+      "type": "earning",
+      "amount": 0.5166666666666667,
+      "source": "airdrops",
+      "timestamp": 1788801937.1392515
+    },
+    {
+      "type": "earning",
+      "amount": 0.11666666666666668,
+      "source": "testnets",
+      "timestamp": 1788801937.1392808
+    },
+    {
+      "type": "earning",
+      "amount": 0.05666666666666667,
+      "source": "referrals",
+      "timestamp": 1788801937.139307
+    },
+    {
+      "type": "earning",
+      "amount": 0.0105,
+      "source": "cashback",
+      "timestamp": 1788801937.1393454
+    },
+    {
+      "type": "earning",
+      "amount": 0.25,
+      "source": "timebucks.com",
+      "timestamp": 1788801954.4289021
+    },
+    {
+      "type": "earning",
+      "amount": 0.5,
+      "source": "freecash.com",
+      "timestamp": 1788801959.429849
+    },
+    {
+      "type": "earning",
+      "amount": 0.25,
+      "source": "ysense.com",
+      "timestamp": 1788801964.4327855
+    },
+    {
+      "type": "earning",
+      "amount": 1.5,
+      "source": "arbitragem",
+      "timestamp": 1788801964.433559
+    },
+    {
+      "type": "earning",
+      "amount": 1.4,
+      "source": "arbitragem",
+      "timestamp": 1788801964.4338746
+    },
+    {
+      "type": "earning",
+      "amount": 0.0010136986301369864,
+      "source": "staking",
+      "timestamp": 1788801964.4343164
+    },
+    {
+      "type": "earning",
+      "amount": 0.5166666666666667,
+      "source": "airdrops",
+      "timestamp": 1788801964.4343507
+    },
+    {
+      "type": "earning",
+      "amount": 0.11666666666666668,
+      "source": "testnets",
+      "timestamp": 1788801964.4343808
+    },
+    {
+      "type": "earning",
+      "amount": 0.05666666666666667,
+      "source": "referrals",
+      "timestamp": 1788801964.4344072
+    },
+    {
+      "type": "earning",
+      "amount": 0.0105,
+      "source": "cashback",
+      "timestamp": 1788801964.4344325
+    },
+    {
+      "type": "earning",
+      "amount": 0.25,
+      "source": "timebucks.com",
+      "timestamp": 1788801981.7208948
+    },
+    {
+      "type": "earning",
+      "amount": 0.5,
+      "source": "freecash.com",
+      "timestamp": 1788801986.723622
+    },
+    {
+      "type": "earning",
+      "amount": 0.25,
+      "source": "ysense.com",
+      "timestamp": 1788801991.7245398
+    },
+    {
+      "type": "earning",
+      "amount": 1.5,
+      "source": "arbitragem",
+      "timestamp": 1788801991.7252162
+    },
+    {
+      "type": "earning",
+      "amount": 1.4,
+      "source": "arbitragem",
+      "timestamp": 1788801991.7255433
+    },
+    {
+      "type": "earning",
+      "amount": 0.0010136986301369864,
+      "source": "staking",
+      "timestamp": 1788801991.725754
+    },
+    {
+      "type": "earning",
+      "amount": 0.5166666666666667,
+      "source": "airdrops",
+      "timestamp": 1788801991.7257879
+    },
+    {
+      "type": "earning",
+      "amount": 0.11666666666666668,
+      "source": "testnets",
+      "timestamp": 1788801991.725828
+    },
+    {
+      "type": "earning",
+      "amount": 0.05666666666666667,
+      "source": "referrals",
+      "timestamp": 1788801991.725854
+    },
+    {
+      "type": "earning",
+      "amount": 0.0105,
+      "source": "cashback",
+      "timestamp": 1788801991.7258785
+    }
+  ],
+  "last_updated": 1788801993.752532
+}

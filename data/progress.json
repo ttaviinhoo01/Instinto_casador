@@ -1,0 +1,69 @@
+{
+  "total_earned": 3.0,
+  "completed_tasks": [
+    {
+      "success": true,
+      "task_type": "survey",
+      "reward": 0.25,
+      "time_seconds": 300,
+      "timestamp": 1788801927.133614
+    },
+    {
+      "success": true,
+      "task_type": "app_test",
+      "reward": 0.5,
+      "time_seconds": 600,
+      "timestamp": 1788801932.13647
+    },
+    {
+      "success": true,
+      "task_type": "survey",
+      "reward": 0.25,
+      "time_seconds": 300,
+      "timestamp": 1788801937.137621
+    },
+    {
+      "success": true,
+      "task_type": "survey",
+      "reward": 0.25,
+      "time_seconds": 300,
+      "timestamp": 1788801954.4288516
+    },
+    {
+      "success": true,
+      "task_type": "app_test",
+      "reward": 0.5,
+      "time_seconds": 600,
+      "timestamp": 1788801959.4297938
+    },
+    {
+      "success": true,
+      "task_type": "survey",
+      "reward": 0.25,
+      "time_seconds": 300,
+      "timestamp": 1788801964.4327338
+    },
+    {
+      "success": true,
+      "task_type": "survey",
+      "reward": 0.25,
+      "time_seconds": 300,
+      "timestamp": 1788801981.7208438
+    },
+    {
+      "success": true,
+      "task_type": "app_test",
+      "reward": 0.5,
+      "time_seconds": 600,
+      "timestamp": 1788801986.7235699
+    },
+    {
+      "success": true,
+      "task_type": "survey",
+      "reward": 0.25,
+      "time_seconds": 300,
+      "timestamp": 1788801991.7244837
+    }
+  ],
+  "last_updated": 1788801993.7490952
+}
