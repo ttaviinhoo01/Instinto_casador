@@ -1,5 +1,5 @@
 """
-INSTINTO CAÇADOR - Ponto de Entrada Principal
+INSTINTO CAÇADOR - Entrada Principal
 """
 import asyncio
 from main_cacador import InstintoCacador
